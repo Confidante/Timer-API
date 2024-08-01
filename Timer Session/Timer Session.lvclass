@@ -30,6 +30,17 @@
 	<Item Name="Timer Session.ctl" Type="Class Private Data" URL="Timer Session.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="SubVI" Type="Folder">
+		<Item Name="High Resolution Polling Wait.vi" Type="VI" URL="../High Resolution Polling Wait.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$3!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;5!+!!^T:7.P&lt;G2T)(2P)(&gt;B;81!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!%!!9$!!"Y!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!!A!!!!!!1!(!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342709776</Property>
+		</Item>
+	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Session Handle.ctl" Type="VI" URL="../Typedefs/Session Handle.ctl">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$0!!!!!A"11(!!(A!!-RB525V14%&amp;523!N)&amp;.F=X.J&lt;WYO&lt;(:M;7)96'6N='RB&gt;'5A5W6T=WFP&lt;CZM&gt;G.M98.T!"*525V14%&amp;523!N)&amp;.F=X.J&lt;WY!!(=!]1!!!!!!!!!$'&amp;2&amp;46"-162&amp;)#UA5W6T=WFP&lt;CZM&gt;GRJ9BB5:7VQ&lt;'&amp;U:3"4:8.T;7^O,GRW9WRB=X-&gt;6%6.5%R"6%5A,3"4:8.T;7^O)%BB&lt;G2M:3ZD&gt;'Q!(U"Q!#!!!1!!!!]A5W6T=WFP&lt;C")97ZE&lt;'5!!1!"!!!!!!</Property>
@@ -78,15 +89,6 @@
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
-			</Item>
-			<Item Name="High Resolution Polling Wait.vi" Type="VI" URL="../High Resolution Polling Wait.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$3!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;5!+!!^T:7.P&lt;G2T)(2P)(&gt;B;81!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!%!!9$!!"Y!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!!A!!!!!!1!(!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1342709776</Property>
 			</Item>
 		</Item>
 		<Item Name="Obtain.vi" Type="VI" URL="../Obtain.vi">
